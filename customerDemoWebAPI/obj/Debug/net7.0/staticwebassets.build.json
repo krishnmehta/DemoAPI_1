@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rs40roaL4nozHBGyFm+ft23REkFwTzDeJnd893p2ivs=",
+  "Source": "customerDemoWebAPI",
+  "BasePath": "_content/customerDemoWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
